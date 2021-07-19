@@ -1,1 +1,2 @@
-# calcPotencia-master
+# calcPotencia
+ejercicio phyton N°2
